@@ -1,0 +1,23 @@
+body {
+    background-color:#151b2b;
+
+}
+h1 {
+    color: #3e50d6;
+    font-family: Geneva, Tahoma, sans-serif;
+}
+p {
+    color: #9365c2;
+    font-family: Consolas;
+}
+
+code {
+    color:#b8ff91;
+    font-family: monospace;
+    border-style:outset;
+    border-radius: 5%;
+    border-color:#688f64
+}
+img {
+    float: left;
+}
